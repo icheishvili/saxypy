@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <link/>
+    <facets/>
+    <spellcheck/>
+    <result page="1" perPage="10" count="2203374">
+        <document specialId="tracks-8360" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="6:39"
+                   url="http://geo-samples.beatport.com/lofi/8360.LOFI.mp3"
+                   id="8360"
+                   stream="mp3:lofi_samples/items/volumes/volume2/items/0/0/0/8000/300/60/8360.LOFI">
+                <name>Don't Cross The Line</name>
+                <urlName>dont-cross-the-line-original-mix</urlName>
+                <mixName>Original Mix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2000-03-28</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>6:39</trackLength>
+                <trackBpm>146</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>F</letter>
+                        <sharp>1</sharp>
+                        <flat></flat>
+                        <chord>minor</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501699.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="34" exclusive="false">
+                    <name>Don't Cross The Line</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+            </track>
+        </document>
+        <document specialId="tracks-8361" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="8:10"
+                   url="http://geo-samples.beatport.com/lofi/8361.LOFI.mp3"
+                   id="8361"
+                   stream="mp3:lofi_samples/items/volumes/volume3/items/0/0/0/8000/300/60/8361.LOFI">
+                <name>Don't Cross The Line</name>
+                <urlName>dont-cross-the-line-uk-gold-remix</urlName>
+                <mixName>UK Gold Remix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2000-11-20</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>8:10</trackLength>
+                <trackBpm>146</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>F</letter>
+                        <sharp>1</sharp>
+                        <flat></flat>
+                        <chord>major</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501685.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="35" exclusive="false">
+                    <name>Don't Cross The LIne (Remixes)</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+                <performer ref="Remixer" id="1162">
+                    <name>UK Gold</name>
+                </performer>
+            </track>
+        </document>
+        <document specialId="tracks-8362" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="7:43"
+                   url="http://geo-samples.beatport.com/lofi/8362.LOFI.mp3"
+                   id="8362"
+                   stream="mp3:lofi_samples/items/volumes/volume4/items/0/0/0/8000/300/60/8362.LOFI">
+                <name>Don't Cross The Line</name>
+                <urlName>dont-cross-the-line-paul-glazby-remix</urlName>
+                <mixName>Paul Glazby Remix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2000-11-20</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>7:43</trackLength>
+                <trackBpm>150</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>F</letter>
+                        <sharp></sharp>
+                        <flat></flat>
+                        <chord>major</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501666.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="35" exclusive="false">
+                    <name>Don't Cross The LIne (Remixes)</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+                <performer ref="Remixer" id="1163">
+                    <name>Paul Glazby</name>
+                </performer>
+            </track>
+        </document>
+        <document specialId="tracks-8366" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="7:24"
+                   url="http://geo-samples.beatport.com/lofi/8366.LOFI.mp3"
+                   id="8366"
+                   stream="mp3:lofi_samples/items/volumes/volume1/items/0/0/0/8000/300/60/8366.LOFI">
+                <name>The Tumbler</name>
+                <urlName>the-tumbler-ilogik-remix</urlName>
+                <mixName>Ilogik Remix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2001-02-12</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>7:24</trackLength>
+                <trackBpm>150</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>A</letter>
+                        <sharp></sharp>
+                        <flat></flat>
+                        <chord>minor</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501688.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="36" exclusive="false">
+                    <name>The Tumbler Remixes</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+                <performer ref="Remixer" id="1165">
+                    <name>Ilogik</name>
+                </performer>
+            </track>
+        </document>
+        <document specialId="tracks-8370" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="7:06"
+                   url="http://geo-samples.beatport.com/lofi/8370.LOFI.mp3"
+                   id="8370"
+                   stream="mp3:lofi_samples/items/volumes/volume5/items/0/0/0/8000/300/70/8370.LOFI">
+                <name>The Tumbler</name>
+                <urlName>the-tumbler-paul-glazby-remix</urlName>
+                <mixName>Paul Glazby Remix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2001-02-12</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>7:06</trackLength>
+                <trackBpm>150</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>A</letter>
+                        <sharp></sharp>
+                        <flat></flat>
+                        <chord>minor</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501711.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="36" exclusive="false">
+                    <name>The Tumbler Remixes</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+                <performer ref="Remixer" id="1163">
+                    <name>Paul Glazby</name>
+                </performer>
+            </track>
+        </document>
+        <document specialId="tracks-8373" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="7:49"
+                   url="http://geo-samples.beatport.com/lofi/8373.LOFI.mp3"
+                   id="8373"
+                   stream="mp3:lofi_samples/items/volumes/volume1/items/0/0/0/8000/300/70/8373.LOFI">
+                <name>3 Turntables</name>
+                <urlName>3-turntables-paul-glazby-remix</urlName>
+                <mixName>Paul Glazby Remix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2001-03-19</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>7:49</trackLength>
+                <trackBpm>148</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>B</letter>
+                        <sharp></sharp>
+                        <flat></flat>
+                        <chord>minor</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501663.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="37" exclusive="false">
+                    <name>3 Turntables (Remixes)</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+                <performer ref="Remixer" id="1163">
+                    <name>Paul Glazby</name>
+                </performer>
+            </track>
+        </document>
+        <document specialId="tracks-8377" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="7:50"
+                   url="http://geo-samples.beatport.com/lofi/8377.LOFI.mp3"
+                   id="8377"
+                   stream="mp3:lofi_samples/items/volumes/volume5/items/0/0/0/8000/300/70/8377.LOFI">
+                <name>Nine Beats To The Bar</name>
+                <urlName>
+                    nine-beats-to-the-bar-johnny-dangerous-and-john-whiteman-remix
+                </urlName>
+                <mixName>Johnny Dangerous &amp; John Whiteman Remix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2001-06-16</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>7:50</trackLength>
+                <trackBpm>148</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>A</letter>
+                        <sharp>1</sharp>
+                        <flat></flat>
+                        <chord>minor</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501676.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="38" exclusive="false">
+                    <name>Nine Beats To The Bar Remix</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+                <performer ref="Remixer" id="1167">
+                    <name>jOHNNYDANGEROUs</name>
+                </performer>
+                <performer ref="Remixer" id="1168">
+                    <name>John Whiteman</name>
+                </performer>
+            </track>
+        </document>
+        <document specialId="tracks-8379" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="7:25"
+                   url="http://geo-samples.beatport.com/lofi/8379.LOFI.mp3"
+                   id="8379"
+                   stream="mp3:lofi_samples/items/volumes/volume7/items/0/0/0/8000/300/70/8379.LOFI">
+                <name>Nine Beats To The Bar</name>
+                <urlName>nine-beats-to-the-bar-paul-glazby-remix</urlName>
+                <mixName>Paul Glazby Remix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2001-06-16</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>7:25</trackLength>
+                <trackBpm>148</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>A</letter>
+                        <sharp>1</sharp>
+                        <flat></flat>
+                        <chord>major</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501642.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="38" exclusive="false">
+                    <name>Nine Beats To The Bar Remix</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+                <performer ref="Remixer" id="1163">
+                    <name>Paul Glazby</name>
+                </performer>
+            </track>
+        </document>
+        <document specialId="tracks-8380" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="6:36"
+                   url="http://geo-samples.beatport.com/lofi/8380.LOFI.mp3"
+                   id="8380"
+                   stream="mp3:lofi_samples/items/volumes/volume1/items/0/0/0/8000/300/80/8380.LOFI">
+                <name>50,000 Watts</name>
+                <urlName>50-000-watts-original-mix</urlName>
+                <mixName>Original Mix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2001-08-20</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>6:36</trackLength>
+                <trackBpm>150</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>D</letter>
+                        <sharp></sharp>
+                        <flat></flat>
+                        <chord>minor</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501687.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="39" exclusive="false">
+                    <name>50,000 Watts</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+            </track>
+        </document>
+        <document specialId="tracks-8381" score="1.7064945" fieldType="track">
+            <track isSelected="false" time="6:54"
+                   url="http://geo-samples.beatport.com/lofi/8381.LOFI.mp3"
+                   id="8381"
+                   stream="mp3:lofi_samples/items/volumes/volume2/items/0/0/0/8000/300/80/8381.LOFI">
+                <name>Attitude</name>
+                <urlName>attitude-original-mix</urlName>
+                <mixName>Original Mix</mixName>
+                <price>$1.49</price>
+                <priceUSD>$1.49</priceUSD>
+                <priceEUR>€1.30</priceEUR>
+                <priceGBP>£1.12</priceGBP>
+                <dateAdded/>
+                <dateReleased>2001-08-20</dateReleased>
+                <trackNumber>1</trackNumber>
+                <trackLength>6:54</trackLength>
+                <trackBpm>150</trackBpm>
+                <trackKey>
+                    <standard>
+                        <letter>A</letter>
+                        <sharp></sharp>
+                        <flat></flat>
+                        <chord>minor</chord>
+                    </standard>
+                </trackKey>
+                <territories restriction_type="WORLDWIDE"/>
+                <image url="http://geo-media.beatport.com/image/2501672.png"
+                       width="1500" height="250" ref="trackWaveForm"/>
+                <image url="http://geo-media.beatport.com/image/2.jpg"
+                       width="60" height="60" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/2215.jpg"
+                       width="30" height="30" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/37199.jpg"
+                       width="592" height="96" ref="label"/>
+                <image url="http://geo-media.beatport.com/image/491533.jpg"
+                       width="60" height="60" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/491534.jpg"
+                       width="30" height="30" ref="default"/>
+                <image url="http://geo-media.beatport.com/image/5245821.jpg"
+                       width="500" height="500" ref="default"/>
+                <fulfillment type="purchase"/>
+                <currentStatus id="10">
+                    <name>General Content</name>
+                </currentStatus>
+                <release id="39" exclusive="false">
+                    <name>50,000 Watts</name>
+                </release>
+                <label id="3">
+                    <name>12 Inch Thumpers</name>
+                </label>
+                <genre id="8">
+                    <name>Hard Dance</name>
+                </genre>
+                <performer ref="Artist" id="1">
+                    <name>12 Inch Thumpers</name>
+                </performer>
+            </track>
+        </document>
+    </result>
+    <msgs>
+        <msg type="success"/>
+    </msgs>
+    <pageTracking/>
+</response>
