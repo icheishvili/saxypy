@@ -4,6 +4,15 @@ using the SAX libraries.
 """
 
 import xml.sax
+from saxypy.dump import struct_to_xml_stream
+
+
+def dump(data, **kwargs):
+    """
+    Convenience function to turn a Python data structure into an XML
+    document.
+    """
+    return ''.join(struct_to_xml_stream(data, **kwargs))
 
 
 def parse(thing, **kwargs):
