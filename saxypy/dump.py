@@ -29,7 +29,7 @@ class DataEventGenerator(object):
         Recursively walk the given data structure and generate XML
         events.
         """
-        if type(data) == dict:
+        if dict in type(data).__bases__:
             for key in data:
                 if key[0] == '@':
                     yield EVENT_ATTRIBUTE, key[1:], data[key]
