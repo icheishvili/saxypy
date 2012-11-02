@@ -119,9 +119,11 @@ def gen_to_xml_stream(gen, **kwargs):
                 else:
                     if len(attributes):
                         yield '<%s %s>%s</%s>' % (
-                            event[1], ' '.join(attributes), event[3], event[1])
+                            event[1], ' '.join(attributes),
+                            escape_for_xml(event[3]), event[1])
                     else:
-                        yield '<%s>%s</%s>' % (event[1], event[3], event[1])
+                        yield '<%s>%s</%s>' % (
+                            event[1], escape_for_xml(event[3]), event[1])
                 yield line_sep
                 gen.next()
             else:
