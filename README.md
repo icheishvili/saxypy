@@ -26,6 +26,10 @@ data = {
                 '@id': 2,
                 'name': 'other thing',
             },
+            {
+                '@id': 3,
+                '!text': 'asdfa',
+            },
         ],
     },
 }
