@@ -83,7 +83,7 @@ def escape_for_xml(value):
         ('&', '&amp;'),
         ('<', '&lt;'),
         ('>', '&gt;'),
-        ("'", '&apos'),
+        ("'", '&apos;'),
         ('"', '&quot;')
     ]
     for search_for, replace_with in table:
