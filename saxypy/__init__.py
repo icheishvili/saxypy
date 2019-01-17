@@ -100,4 +100,5 @@ class SaxyHandler(xml.sax.ContentHandler):
         if self.strip_whitespace:
             content = content.strip()
         if content:
-            self.data['*content*'] = content
+            self.data.setdefault('*content*', '')
+            self.data['*content*'] += content
